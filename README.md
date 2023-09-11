@@ -1,2 +1,5 @@
 # pants-download-stats
-Little automation for tracking Pants GitHub Release download stats
+
+A little repo with automation to scrape GitHub Release Asset download stats.
+
+More to come...
