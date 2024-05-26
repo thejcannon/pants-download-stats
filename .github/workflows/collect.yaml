@@ -33,7 +33,7 @@ jobs:
       - name: Commit and push data file
         run: |
           git config --global user.name 'Joshua Cannon'
-          git config --global user.email 'joshdcannon@gmail.com'
+          git config --global user.email 'noreply@github.com'
           git add data/*
           git commit -m "Add today's data"
           git push origin main
